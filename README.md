@@ -253,42 +253,9 @@ Total Lines of Code: ~900 (lean & efficient!)
 
 ### **Code Architecture Diagram**
 
-```
-┌─────────────────────────────────────────────────────┐
-│                  USER INTERACTION                    │
-│              (Web Browser Interface)                 │
-└────────┬────────────────────────────┬───────────────┘
-         │                            │
-    [Sidebar]                   [Main Content]
-    ├─ Crypto picker          ├─ Charts (Plotly)
-    ├─ Period slider          ├─ Metrics display
-    ├─ Forecast days          └─ CSV download
-    ├─ LSTM units
-    ├─ Dropout rate
-    └─ Epochs
-         │                            │
-         └────────────┬───────────────┘
-                      │
-        ┌─────────────▼──────────────┐
-        │   PYTHON BACKEND           │
-        │   (Main Application)       │
-        └──┬──────────────────────┬──┘
-           │                      │
-      [Data Engine]          [ML Engine]
-      ├─ yfinance API        ├─ LSTM Model
-      ├─ Data validation     ├─ Training
-      ├─ Normalization       ├─ Prediction
-      └─ Caching             └─ Evaluation
-           │                      │
-           └──────────┬───────────┘
-                      │
-        ┌─────────────▼──────────────┐
-        │  VISUALIZATION ENGINE      │
-        │  (Plotly + Streamlit)      │
-        ├─ Interactive charts
-        ├─ Metrics cards
-        └─ Data tables
-```
+
+![Crypto Predict Pro Architecture](https://github.com/Ashish1100/Project_Real-Time-Cryptocurrency-Price-Prediction/blob/main/images/architecture.png)
+
 
 ---
 
