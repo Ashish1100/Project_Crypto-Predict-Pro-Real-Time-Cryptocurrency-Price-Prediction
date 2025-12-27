@@ -417,7 +417,7 @@ The software is provided “as is”, without warranty of any kind.
 > - **Model accuracy degrades over time** (requires retraining)
 > - **You assume 100% responsibility** for your financial decisions
 >
-> **Use this tool responsibly. Stay informed. Trade safely.**
+> 📍 **Use this tool responsibly. Stay informed. Trade safely.**
 
 ---
 
