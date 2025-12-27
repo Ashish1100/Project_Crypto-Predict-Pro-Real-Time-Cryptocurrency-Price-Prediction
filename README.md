@@ -474,7 +474,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
  Passionate about Data Science, AI and Innovation
 
-[GitHub](https://github.com/yourusername) • [LinkedIn](https://linkedin.com/in/yourusername) • [Email](mailto:your.email@example.com)
+[GitHub](https://github.com/Ashish1100) • [LinkedIn](https://www.linkedin.com/in/ashishsaha21/) • [Email](mailto:ashishsaha.softwareemail@email.com)
 
 
 ---
