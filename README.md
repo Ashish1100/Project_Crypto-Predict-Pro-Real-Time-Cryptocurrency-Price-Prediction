@@ -10,7 +10,7 @@
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/downloads/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red?logo=keras&logoColor=white)](https://keras.io/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License: Non-Commercial](https://img.shields.io/badge/License-Non--Commercial-green.svg)](LICENSE)
 
 
 </div>
@@ -19,17 +19,16 @@
 
 ## **The Main Idea**
 
-In the volatile world of cryptocurrency, **timing is everything**. CryptoPredict Pro empowers traders, researchers, and enthusiasts with **institutional-grade AI predictions** through an elegant, web-based interface. 
+In the volatile world of cryptocurrency, **timing is everything**. Crypto Predict Pro empowers traders, researchers, and enthusiasts with **AI predictions** through an elegant, web-based interface. 
 
 ### **Why It Matters: The Need**
 
-| Challenge | Traditional Approach | Crypto Predict Solution |
+| Challenge | Traditional Approach | Crypto Predict Pro |
 |-----------|---------------------|----------------------|
 | **Market Unpredictability** | Manual analysis (slow, biased) | LSTM Deep Learning (86% accuracy) |
 | **Analysis Speed** | Hours of research | Instant results in seconds |
 | **Data Access** | Multiple tools needed | Unified real-time integration |
-| **ML Complexity** | Requires PhD-level knowledge | Intuitive web interface |
-| **Cost** | Expensive Bloomberg terminals | Completely FREE & open-source |
+| **Cost** | Can be expensive | Completely FREE & open-source |
 
 ### **The Importance**
 
@@ -261,7 +260,7 @@ Total Lines of Code: ~900 (lean & efficient!)
 
 ## **Quick Start Guide**
 
-### **Installation (3 Steps)**
+### **Installation**
 
 ```bash
 # 1. Clone the repository
@@ -391,23 +390,15 @@ CONFIG = {
 ## **License & Legal**
 
 ```
-MIT License
+© 2025 Ashish Saha
 
-Copyright (c) 2025 Ashish Saha
+This project is a personal initiative intended for educational use only.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is granted to use, copy, and modify this software for learning and research purposes.
+Commercial use, sale, or monetization of this software or its derivatives is strictly prohibited.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+The software is provided “as is”, without warranty of any kind.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 ```
 
 ---
