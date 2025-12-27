@@ -25,7 +25,7 @@ In the volatile world of cryptocurrency, **timing is everything**. Crypto Predic
 
 | Challenge | Traditional Approach | Crypto Predict Pro |
 |-----------|---------------------|----------------------|
-| **Market Unpredictability** | Manual analysis (slow, biased) | LSTM Deep Learning (86% accuracy) |
+| **Market Unpredictability** | Manual analysis (slow, biased) | LSTM Deep Learning |
 | **Analysis Speed** | Hours of research | Instant results in seconds |
 | **Data Access** | Multiple tools needed | Unified real-time integration |
 | **Cost** | Can be expensive | Completely FREE & open-source |
@@ -213,7 +213,7 @@ Slow retraining (days)                Fast retraining (seconds)
 
 ## **Project Architecture & Structure**
 
-### **Directory Organization**
+### **Directory Structure**
 
 ```
 CryptoPredict-Pro/
@@ -305,25 +305,30 @@ streamlit run cryptocurrency.py
 | **model-training.gif** | LSTM training progress | TensorFlow visualization |
 | **data-export.gif** | CSV download process | Desktop recording |
 
-### **Suggested Image Screenshots**
+### **Crypto Predict Pro Working Screenshots**
 
-```markdown
-# Dashboard Overview
-![Dashboard](images/dashboard-screenshot.png)
-*Full CryptoPredict Pro interface*
 
-# Price Chart Example
-![Chart](images/chart-example.png)
-*Interactive Plotly chart with all series*
+#### Dashboard Overview
+![Dashboard_1](https://github.com/Ashish1100/Project_Real-Time-Cryptocurrency-Price-Prediction/blob/main/images/Dashboard_1.png)
+![Dashboard_2](https://github.com/Ashish1100/Project_Real-Time-Cryptocurrency-Price-Prediction/blob/main/images/Dashboard_2.png)
 
-# Metrics Display
-![Metrics](images/metrics-cards.png)
-*Performance metrics and model evaluation*
+#### Interactive Price Chart Example
+![Chart_1](https://github.com/Ashish1100/Project_Real-Time-Cryptocurrency-Price-Prediction/blob/main/images/Chart_1.png)
+![Chart_2](https://github.com/Ashish1100/Project_Real-Time-Cryptocurrency-Price-Prediction/blob/main/images/Chart_2.png)
 
-# Mobile View
-![Mobile](images/mobile-responsive.png)
-*Works perfectly on phones & tablets*
-```
+#### Metrics Display
+![Metrics](https://github.com/Ashish1100/Project_Real-Time-Cryptocurrency-Price-Prediction/blob/main/images/Metrics.png)
+
+#### Detailed Forecast Table
+![Detailed_Forecast](https://github.com/Ashish1100/Project_Real-Time-Cryptocurrency-Price-Prediction/blob/main/images/Detailed_Forecast.png)
+
+#### Downloaded Forecast .csv
+![Downloaded_Forecast](https://github.com/Ashish1100/Project_Real-Time-Cryptocurrency-Price-Prediction/blob/main/images/Downloaded_Forecast.png)
+
+#### Mobile/Phone View
+![Mobile_1](https://github.com/Ashish1100/Project_Real-Time-Cryptocurrency-Price-Prediction/blob/main/images/Mobile_1.jpg)
+![Mobile_2](https://github.com/Ashish1100/Project_Real-Time-Cryptocurrency-Price-Prediction/blob/main/images/Mobile_2.jpg)
+![Mobile_3](https://github.com/Ashish1100/Project_Real-Time-Cryptocurrency-Price-Prediction/blob/main/images/Mobile_3.jpg)
 
 ---
 
