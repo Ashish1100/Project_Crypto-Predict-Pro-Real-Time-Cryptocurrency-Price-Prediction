@@ -249,7 +249,7 @@ CryptoPredict-Pro/
 │   ├── .streamlit/secrets.toml
 │   └── *.pyc
 │
-└── LICENSE                       # MIT License
+└── license.md                       # Non-commercial 
 
 Total Lines of Code: ~900 (lean & efficient!)
 ```
