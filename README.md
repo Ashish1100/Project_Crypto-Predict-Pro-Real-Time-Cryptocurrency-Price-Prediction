@@ -10,7 +10,7 @@
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/downloads/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red?logo=keras&logoColor=white)](https://keras.io/)
-[![License: Non-Commercial](https://img.shields.io/badge/License-Non--Commercial-green.svg)](LICENSE)
+[![License: Non-Commercial](https://img.shields.io/badge/License-Non--Commercial-green.svg)](https://github.com/Ashish1100/Project_Real-Time-Cryptocurrency-Price-Prediction/blob/main/license.md)
 
 
 </div>
