@@ -87,7 +87,7 @@ Experience the power of AI-driven predictions instantly:
 
 ---
 
-## **Key Features Breakdown**
+## **Key Features**
 
 ### **Prediction Engine**
 
