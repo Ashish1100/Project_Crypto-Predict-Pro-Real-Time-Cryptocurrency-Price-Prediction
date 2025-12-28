@@ -222,7 +222,7 @@ Slow retraining (days)                Fast retraining (seconds)
 ### **Directory Structure**
 
 ```
-CryptoPredict-Pro/
+Crypto Predict Pro/
 │
 ├── cryptocurrency.py              # Main application (1 file = simplicity!)
 │   ├── Configuration (CONFIG dict)
