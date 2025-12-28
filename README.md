@@ -40,6 +40,10 @@ Cryptocurrency Market Facts:
 ├─ AI-driven trading dominates (≈90% of volume)
 └─ Early adopters of AI gain competitive edge
 ```
+### **Code Architecture Diagram**
+
+
+![Crypto Predict Pro Architecture](https://github.com/Ashish1100/Project_Real-Time-Cryptocurrency-Price-Prediction/blob/main/images/architecture.png)
 
 ---
 
@@ -92,25 +96,23 @@ Experience the power of AI-driven predictions instantly:
 ### **Prediction Engine**
 
 ```
-╔═══════════════════════════════════════════════════════════╗
-║            LSTM NEURAL NETWORK ARCHITECTURE               ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                           ║
-║  Input Layer (60 timesteps of historical data)            ║
-║        ↓                                                  ║
-║  LSTM Layer 1 (64 units) + Dropout (20%)                  ║
-║        ↓                                                  ║
-║  LSTM Layer 2 (64 units) + Dropout (20%)                  ║
-║        ↓                                                  ║
-║  Dense Layer 1 (32 units, ReLU activation)                ║
-║        ↓                                                  ║
-║  Dense Layer 2 (16 units, ReLU activation)                ║
-║        ↓                                                  ║
-║  Output Layer (1 unit, Linear activation)                 ║
-║        ↓                                                  ║
-║  Price Prediction (Next N days forecast)                  ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
+
+LSTM NEURAL NETWORK ARCHITECTURE             
+                                                         
+Input Layer (60 timesteps of historical data)           
+       ↓
+LSTM Layer 1 (64 units) + Dropout (20%)                 
+       ↓                                                 
+LSTM Layer 2 (64 units) + Dropout (20%)                  
+       ↓                                                  
+Dense Layer 1 (32 units, ReLU activation)                
+       ↓                                                  
+Dense Layer 2 (16 units, ReLU activation)                
+       ↓                                                  
+Output Layer (1 unit, Linear activation)                 
+       ↓
+Price Prediction (Next N days forecast)                  
+
 
 ✓ Multi-layer LSTM for complex pattern recognition
 ✓ Dropout regularization prevents overfitting
@@ -124,11 +126,11 @@ Experience the power of AI-driven predictions instantly:
 
 ```
 Interactive Chart Features:
-├─ Actual Prices (Blue line) ────────────────┐
-├─ Train Predictions (Green dotted) ─────────├─ Plotly
-├─ Test Predictions (Orange dotted) ─────────├─ Multi-Series
-├─ Future Forecast (Red solid) ──────────────├─ Zoomable
-└─ Confidence Bounds (Pink band, ±5%) ───────┘─ PNG Export
+├─ Actual Prices (Blue line) ────────────┐
+├─ Train Predictions (Green dotted) ─────├─ Plotly
+├─ Test Predictions (Orange dotted) ─────├─ Multi-Series
+├─ Future Forecast (Red solid) ──────────├─ Zoomable
+└─ Confidence Bounds (Pink band, ±5%) ───┘─ PNG Export
 
 Chart Capabilities:
 ✓ Hover tooltips with exact values
@@ -215,7 +217,7 @@ Slow retraining (days)                Fast retraining (seconds)
 
 ---
 
-## **Project Structure & Architecture**
+## **Project Structure**
 
 ### **Directory Structure**
 
@@ -236,7 +238,7 @@ CryptoPredict-Pro/
 │   ├── yfinance==0.2.32
 │   ├── plotly==5.17.0
 │   ├── pandas, numpy, scikit-learn
-│   └── ... (8 total packages)
+│   └── ... (total packages)
 │
 ├── 🖼️ Pic1.png                     # Sidebar banner (crypto icon)
 ├── 🖼️ Pic2.png                     # Main content image
@@ -253,12 +255,6 @@ CryptoPredict-Pro/
 
 Total Lines of Code: ~900 (lean & efficient!)
 ```
-
-### **Code Architecture Diagram**
-
-
-![Crypto Predict Pro Architecture](https://github.com/Ashish1100/Project_Real-Time-Cryptocurrency-Price-Prediction/blob/main/images/architecture.png)
-
 
 ---
 
@@ -344,15 +340,15 @@ Yahoo Finance (yfinance)
 
 ```
 CONFIG = {
-    'timestep': 60,              # Historical window (60 days)
-    'lstm_units': 64,            # Neural network capacity
-    'dropout_rate': 0.2,         # Regularization (20%)
-    'epochs': 10,                # Training iterations
-    'batch_size': 32,            # Gradient update frequency
-    'validation_split': 0.1,     # 10% validation data
-    'early_stopping_patience': 5,# Stop if no improvement
-    'min_data_points': 100,      # Minimum historical data
-    'forecast_days_max': 30      # Maximum prediction horizon
+    'timestep': 60,                 # Historical window (60 days)
+    'lstm_units': 64,               # Neural network capacity
+    'dropout_rate': 0.2,            # Regularization (20%)
+    'epochs': 10,                   # Training iterations
+    'batch_size': 32,               # Gradient update frequency
+    'validation_split': 0.1,        # 10% validation data
+    'early_stopping_patience': 5,   # Stop if no improvement
+    'min_data_points': 100,         # Minimum historical data
+    'forecast_days_max': 30         # Maximum prediction horizon
 }
 ```
 
@@ -414,7 +410,6 @@ The software is provided “as is”, without warranty of any kind.
 > - **Crypto markets operate 24/7** with extreme risk
 > - **Scams and hacks are common** in crypto space
 > - **Regulatory changes can crash markets** instantly
-> - **Model accuracy degrades over time** (requires retraining)
 > - **You assume 100% responsibility** for your financial decisions
 >
 > 📍 **Use this tool responsibly. Stay informed. Trade safely.**
@@ -426,9 +421,9 @@ The software is provided “as is”, without warranty of any kind.
 <div align="center">
 
 ### **Ashish Saha**
-**Machine Learning Engineer** | **AI Researcher** | **Software Engineer**
+**Machine Learning Research** | **AI Engineering** | **Data Science**
 
-> Specializing in building intelligent ML systems and transforming data into actionable insights.
+*Specializing in building intelligent ML systems and transforming data into actionable insights.*
 
 **Tech Stack:** Python • TensorFlow/Keras • PyTorch • XGBoost • Scikit-learn 
 
