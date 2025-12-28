@@ -41,8 +41,8 @@ Cryptocurrency Market Facts:
 └─ Early adopters of AI gain competitive edge
 ```
 ### **Code Architecture Diagram**
-
-
+![Crypto Predict Pro Architecture_1](https://github.com/Ashish1100/Project_Crypto-Predict-Pro-Real-Time-Cryptocurrency-Price-Prediction/blob/main/images/architecture_1.png)
+ 
 ![Crypto Predict Pro Architecture](https://github.com/Ashish1100/Project_Real-Time-Cryptocurrency-Price-Prediction/blob/main/images/architecture.png)
 
 ---
