@@ -224,14 +224,14 @@ Slow retraining (days)                Fast retraining (seconds)
 ```
 Crypto Predict Pro/
 │
-├── cryptocurrency.py              # Main application (1 file = simplicity!)
+├── cryptocurrency.py                   # Main application (1 file = simplicity!)
 │   ├── Configuration (CONFIG dict)
 │   ├── Data loading (yfinance)
 │   ├── Model building (Keras)
 │   ├── Training & prediction
 │   └── Visualization (Plotly)
 │
-├── requirements.txt               # Dependencies (pip install)
+├── requirements.txt                     # Dependencies (pip install)
 │   ├── streamlit==1.28.0
 │   ├── tensorflow==2.13.0
 │   ├── keras==2.13.0
@@ -240,18 +240,18 @@ Crypto Predict Pro/
 │   ├── pandas, numpy, scikit-learn
 │   └── ... (total packages)
 │
-├── 🖼️ Pic1.png                     # Sidebar banner (crypto icon)
-├── 🖼️ Pic2.png                     # Main content image
+├── 🖼️ Pic1.png                          # Sidebar banner (crypto icon)
+├── 🖼️ Pic2.png                          # Main content image
 │
-├── README.md                     # This file
+├── README.md                             # This file
 │
-├── .gitignore                    # Git ignore file
+├── .gitignore                            # Git ignore file
 │   ├── venv/
 │   ├── __pycache__/
 │   ├── .streamlit/secrets.toml
 │   └── *.pyc
 │
-└── license.md                       # Non-commercial 
+└── license.md                             # Non-commercial 
 
 Total Lines of Code: ~900 (lean & efficient!)
 ```
