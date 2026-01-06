@@ -114,12 +114,12 @@ Output Layer (1 unit, Linear activation)
 Price Prediction (Next N days forecast)                  
 
 
-✓ Multi-layer LSTM for complex pattern recognition
-✓ Dropout regularization prevents overfitting
-✓ ReLU activation captures non-linear relationships
-✓ Real-time model training & prediction
-✓ Early stopping for optimal convergence
-✓ Less Complex and faster results
+- Multi-layer LSTM for complex pattern recognition
+- Dropout regularization prevents overfitting
+- ReLU activation captures non-linear relationships
+- Real-time model training & prediction
+- Early stopping for optimal convergence
+- Less Complex and faster results
 ```
 
 ### **Visualizations**
@@ -133,11 +133,11 @@ Interactive Chart Features:
 └─ Confidence Bounds (Pink band, ±5%)
 
 Chart Capabilities:
-✓ Hover tooltips with exact values
-✓ Zoom and pan across date ranges
-✓ Toggle series visibility
-✓ Download as PNG image
-✓ Responsive on all devices
+- Hover tooltips with exact values
+- Zoom and pan across date ranges
+- Toggle series visibility
+- Download as PNG image
+- Responsive on all devices
 ```
 
 ### **Cryptocurrency Support**
